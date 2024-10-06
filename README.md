@@ -45,19 +45,19 @@ Hi, I'm [Yiğit Can Çelik](https://www.linkedin.com/in/yi%C4%9Fit-can-%C3%A7eli
 ## >>> GitHub Stats 👀
 
 <div>
-   <img width=45% align=left src="https://github-readme-streak-stats.herokuapp.com/?user=emircetinmemis&theme=react&border=61dafb&hide_border=true" alt="streak" />
-   <img width=45% align=center src="https://github-readme-stats.vercel.app/api?username=emircetinmemis&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+   <img width=45% align=left src="https://github-readme-streak-stats.herokuapp.com/?user=YigitCnCelik&theme=react&border=61dafb&hide_border=true" alt="streak" />
+   <img width=45% align=center src="https://github-readme-stats.vercel.app/api?username=YigitCnCelik&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </div>
 
 <br>
 
 <div>
-   <img width=35% align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircetinmemis&hide=c%23,powershell,css,lua,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-   <img align=center width="55%" src="https://github-profile-trophy.vercel.app/?username=emircetinmemis&theme=onedark">
+   <img width=35% align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=YigitCnCelik&hide=c%23,powershell,css,lua,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+   <img align=center width="55%" src="https://github-profile-trophy.vercel.app/?username=YigitCnCelik&theme=onedark">
 </div>
 
 <br>
 
 <div>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=emircetinmemis&theme=react-dark&bg_color=20232a&hide_border=true" width="92%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YigitCnCelik&theme=react-dark&bg_color=20232a&hide_border=true" width="92%"/>
 </div>
