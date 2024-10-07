@@ -2,7 +2,7 @@
 
 Hi, I'm [Yiğit Can Çelik](https://www.linkedin.com/in/yi%C4%9Fit-can-%C3%A7elik-a12622228/), I graduated from computer engineering and am a full-time software developer. I am interested in various branches of programming and computers. For more, get [contact](mailto:yigitcancelik03@gmail.com) with me !
 
-### >>> Check out my new website [yigitcancelik.com](https://yigitcancelik.github.io) 🌐
+### >>> Check out my new website [yigitcancelik.com](https://yigitcancelik.com) 🌐
 
 ## >>> Find Me In 🥷
 
